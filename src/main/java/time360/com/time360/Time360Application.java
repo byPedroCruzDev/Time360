@@ -1,4 +1,4 @@
-package time360;
+package time360.com.time360;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
